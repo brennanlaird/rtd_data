@@ -1,0 +1,1249 @@
+{
+  "metadata": {
+    "generated_at": "2025-05-23T23:46:24.596618",
+    "challenge_stations": [
+      "Denver Airport",
+      "Westminster",
+      "Littleton Mineral",
+      "RidgeGate Parkway",
+      "Wheat Ridge Ward",
+      "30th & Downing",
+      "Eastlake & 124th",
+      "Jefferson Co. Government Center"
+    ]
+  },
+  "stations": {
+    "Northglenn - 112th Station Track 2": {
+      "stop_id": "35255",
+      "lines": [
+        "N"
+      ]
+    },
+    "48th & Brighton-National Western Station Track 1": {
+      "stop_id": "35246",
+      "lines": [
+        "N"
+      ]
+    },
+    "Union Station Track 2": {
+      "stop_id": "34668",
+      "lines": [
+        "N"
+      ]
+    },
+    "Commerce City - 72nd Station Track 2": {
+      "stop_id": "35249",
+      "lines": [
+        "N"
+      ]
+    },
+    "Original Thornton - 88th Station Track 2": {
+      "stop_id": "35251",
+      "lines": [
+        "N"
+      ]
+    },
+    "Thornton Crossroads - 104th Station Track 1": {
+      "stop_id": "35252",
+      "lines": [
+        "N"
+      ]
+    },
+    "Original Thornton - 88th Station Track 1": {
+      "stop_id": "35250",
+      "lines": [
+        "N"
+      ]
+    },
+    "Eastlake - 124th Station Track 2": {
+      "stop_id": "35257",
+      "lines": [
+        "N"
+      ]
+    },
+    "Thornton Crossroads - 104th Station Track 2": {
+      "stop_id": "35253",
+      "lines": [
+        "N"
+      ]
+    },
+    "Northglenn - 112th Station Track 1": {
+      "stop_id": "35254",
+      "lines": [
+        "N"
+      ]
+    },
+    "Commerce City - 72nd Station Track 1": {
+      "stop_id": "35248",
+      "lines": [
+        "N"
+      ]
+    },
+    "Dayton Station": {
+      "stop_id": "34004",
+      "lines": [
+        "H",
+        "R"
+      ]
+    },
+    "2nd & Abilene Station": {
+      "stop_id": "34581",
+      "lines": [
+        "R"
+      ]
+    },
+    "Evans Station": {
+      "stop_id": "25435",
+      "lines": [
+        "D",
+        "E",
+        "H"
+      ]
+    },
+    "County Line Station": {
+      "stop_id": "25988",
+      "lines": [
+        "E",
+        "R"
+      ]
+    },
+    "Lincoln Station": {
+      "stop_id": "34005",
+      "lines": [
+        "E",
+        "R"
+      ]
+    },
+    "Lamar Station": {
+      "stop_id": "33959",
+      "lines": [
+        "W"
+      ]
+    },
+    "Alameda Station": {
+      "stop_id": "23060",
+      "lines": [
+        "D",
+        "E",
+        "H"
+      ]
+    },
+    "Union Station Track 11": {
+      "stop_id": "25430",
+      "lines": [
+        "E",
+        "W"
+      ]
+    },
+    "20th & Welton Station": {
+      "stop_id": "23048",
+      "lines": [
+        "L"
+      ]
+    },
+    "Louisiana & Pearl Station": {
+      "stop_id": "25982",
+      "lines": [
+        "E",
+        "H"
+      ]
+    },
+    "Southmoor Station": {
+      "stop_id": "34011",
+      "lines": [
+        "E",
+        "H"
+      ]
+    },
+    "Oak Station": {
+      "stop_id": "33565",
+      "lines": [
+        "W"
+      ]
+    },
+    "10th & Osage Station": {
+      "stop_id": "23059",
+      "lines": [
+        "D",
+        "E",
+        "H"
+      ]
+    },
+    "Colfax Station": {
+      "stop_id": "34585",
+      "lines": [
+        "R"
+      ]
+    },
+    "I-25 & Broadway Station": {
+      "stop_id": "23041",
+      "lines": [
+        "D",
+        "E",
+        "H"
+      ]
+    },
+    "Colorado Station": {
+      "stop_id": "34013",
+      "lines": [
+        "E",
+        "H"
+      ]
+    },
+    "Lone Tree City Center Station": {
+      "stop_id": "35207",
+      "lines": [
+        "E"
+      ]
+    },
+    "Yale Station": {
+      "stop_id": "25979",
+      "lines": [
+        "E",
+        "H"
+      ]
+    },
+    "Decatur / Federal Station": {
+      "stop_id": "33958",
+      "lines": [
+        "W"
+      ]
+    },
+    "Englewood Station": {
+      "stop_id": "24890",
+      "lines": [
+        "D"
+      ]
+    },
+    "25th & Welton Station": {
+      "stop_id": "23053",
+      "lines": [
+        "L"
+      ]
+    },
+    "Perry Station": {
+      "stop_id": "33965",
+      "lines": [
+        "W"
+      ]
+    },
+    "Jeffco Government Center Station": {
+      "stop_id": "33568",
+      "lines": [
+        "W"
+      ]
+    },
+    "Red Rocks Community College Station": {
+      "stop_id": "33567",
+      "lines": [
+        "W"
+      ]
+    },
+    "Colfax at Auraria Station": {
+      "stop_id": "23058",
+      "lines": [
+        "D",
+        "H"
+      ]
+    },
+    "Sky Ridge Station": {
+      "stop_id": "35205",
+      "lines": [
+        "E"
+      ]
+    },
+    "18th & Stout Station": {
+      "stop_id": "23055",
+      "lines": [
+        "D",
+        "H",
+        "L"
+      ]
+    },
+    "Oxford - City of Sheridan Station": {
+      "stop_id": "25437",
+      "lines": [
+        "D"
+      ]
+    },
+    "30th & Downing Station": {
+      "stop_id": "23051",
+      "lines": [
+        "L"
+      ]
+    },
+    "Fitzsimons Station": {
+      "stop_id": "34588",
+      "lines": [
+        "R"
+      ]
+    },
+    "Arapahoe at Village Center Station": {
+      "stop_id": "34008",
+      "lines": [
+        "E",
+        "R"
+      ]
+    },
+    "16th & Stout Station": {
+      "stop_id": "35266",
+      "lines": [
+        "L"
+      ]
+    },
+    "Dry Creek Station": {
+      "stop_id": "25989",
+      "lines": [
+        "E",
+        "R"
+      ]
+    },
+    "Iliff Station": {
+      "stop_id": "34575",
+      "lines": [
+        "H",
+        "R"
+      ]
+    },
+    "Empower Field at Mile High Station": {
+      "stop_id": "25432",
+      "lines": [
+        "E",
+        "W"
+      ]
+    },
+    "Federal Center Station": {
+      "stop_id": "33955",
+      "lines": [
+        "W"
+      ]
+    },
+    "Belleview Station": {
+      "stop_id": "34010",
+      "lines": [
+        "E",
+        "R"
+      ]
+    },
+    "Sheridan Station": {
+      "stop_id": "33967",
+      "lines": [
+        "W"
+      ]
+    },
+    "Orchard Station": {
+      "stop_id": "25983",
+      "lines": [
+        "E",
+        "R"
+      ]
+    },
+    "27th & Welton Station": {
+      "stop_id": "23708",
+      "lines": [
+        "L"
+      ]
+    },
+    "13th Ave Station": {
+      "stop_id": "34584",
+      "lines": [
+        "R"
+      ]
+    },
+    "Wadsworth Station": {
+      "stop_id": "33563",
+      "lines": [
+        "W"
+      ]
+    },
+    "Littleton / Downtown Station": {
+      "stop_id": "25438",
+      "lines": [
+        "D"
+      ]
+    },
+    "Auraria West Station": {
+      "stop_id": "25427",
+      "lines": [
+        "E",
+        "W"
+      ]
+    },
+    "Florida Station": {
+      "stop_id": "34577",
+      "lines": [
+        "H",
+        "R"
+      ]
+    },
+    "Aurora Metro Center Station": {
+      "stop_id": "34579",
+      "lines": [
+        "R"
+      ]
+    },
+    "Ball Arena / Elitch Gardens Station": {
+      "stop_id": "25429",
+      "lines": [
+        "E",
+        "W"
+      ]
+    },
+    "Nine Mile Station": {
+      "stop_id": "34003",
+      "lines": [
+        "H",
+        "R"
+      ]
+    },
+    "University of Denver Station": {
+      "stop_id": "34014",
+      "lines": [
+        "E",
+        "H"
+      ]
+    },
+    "I-25 & Broadway Station Center Track": {
+      "stop_id": "23061",
+      "lines": [
+        "E",
+        "H"
+      ]
+    },
+    "Peoria Station": {
+      "stop_id": "34745",
+      "lines": [
+        "R"
+      ]
+    },
+    "Knox Station": {
+      "stop_id": "33559",
+      "lines": [
+        "W"
+      ]
+    },
+    "Littleton / Mineral Ave Station": {
+      "stop_id": "24896",
+      "lines": [
+        "D"
+      ]
+    },
+    "Theatre District/Convention Ctr Station": {
+      "stop_id": "25884",
+      "lines": [
+        "D",
+        "H"
+      ]
+    },
+    "Garrison Station": {
+      "stop_id": "33957",
+      "lines": [
+        "W"
+      ]
+    },
+    "18th & California Station": {
+      "stop_id": "23047",
+      "lines": [
+        "D",
+        "H",
+        "L"
+      ]
+    },
+    "Ridgegate Parkway Station": {
+      "stop_id": "35211",
+      "lines": [
+        "E"
+      ]
+    },
+    "16th & California Station": {
+      "stop_id": "23046",
+      "lines": [
+        "D",
+        "H",
+        "L"
+      ]
+    },
+    "Union Station Track 12": {
+      "stop_id": "25434",
+      "lines": [
+        "E",
+        "W"
+      ]
+    },
+    "Theatre District / Convention Center Station": {
+      "stop_id": "29104",
+      "lines": [
+        "D",
+        "H"
+      ]
+    },
+    "61st & Pena Station Track 1": {
+      "stop_id": "34605",
+      "lines": [
+        "A"
+      ]
+    },
+    "Arvada Ridge Station Track 2": {
+      "stop_id": "34519",
+      "lines": [
+        "G"
+      ]
+    },
+    "Union Station Track 7": {
+      "stop_id": "34781",
+      "lines": [
+        "G"
+      ]
+    },
+    "Central Park Station Track 1": {
+      "stop_id": "34469",
+      "lines": [
+        "A"
+      ]
+    },
+    "Central Park Station Track 2": {
+      "stop_id": "34470",
+      "lines": [
+        "A"
+      ]
+    },
+    "60th & Sheridan - Arvada Gold Strike Station Track 2": {
+      "stop_id": "34525",
+      "lines": [
+        "G"
+      ]
+    },
+    "40th & Colorado Station Track 2": {
+      "stop_id": "34468",
+      "lines": [
+        "A"
+      ]
+    },
+    "Union Station Track 1": {
+      "stop_id": "34667",
+      "lines": [
+        "A"
+      ]
+    },
+    "Olde Town Arvada E-Bound": {
+      "stop_id": "34541",
+      "lines": [
+        "G"
+      ]
+    },
+    "Union Station Track 8": {
+      "stop_id": "34782",
+      "lines": [
+        "B"
+      ]
+    },
+    "Wheat Ridge - Ward Station Track 1": {
+      "stop_id": "34510",
+      "lines": [
+        "G"
+      ]
+    },
+    "60th & Sheridan - Arvada Gold Strike Station Track 1": {
+      "stop_id": "34526",
+      "lines": [
+        "G"
+      ]
+    },
+    "61st & Pena Station Track 2": {
+      "stop_id": "34606",
+      "lines": [
+        "A"
+      ]
+    },
+    "Arvada Ridge Station Track 1": {
+      "stop_id": "34520",
+      "lines": [
+        "G"
+      ]
+    },
+    "Westminster Station S-Bound": {
+      "stop_id": "34560",
+      "lines": [
+        "B"
+      ]
+    },
+    "38th & Blake Station Track 1": {
+      "stop_id": "34465",
+      "lines": [
+        "A"
+      ]
+    },
+    "40th & Colorado Station Track 1": {
+      "stop_id": "34467",
+      "lines": [
+        "A"
+      ]
+    },
+    "Peoria Station Track 2": {
+      "stop_id": "34472",
+      "lines": [
+        "A"
+      ]
+    },
+    "41st & Fox Station Track 2": {
+      "stop_id": "34559",
+      "lines": [
+        "B",
+        "G"
+      ]
+    },
+    "Peoria Station Track 1": {
+      "stop_id": "34471",
+      "lines": [
+        "A"
+      ]
+    },
+    "Clear Creek - Federal Station Track 1": {
+      "stop_id": "34530",
+      "lines": [
+        "G"
+      ]
+    },
+    "40th Ave & Airport Blvd - Gateway Park Station Track 2": {
+      "stop_id": "34474",
+      "lines": [
+        "A"
+      ]
+    },
+    "Olde Town Arvada W-Bound": {
+      "stop_id": "34542",
+      "lines": [
+        "G"
+      ]
+    },
+    "40th Ave & Airport Blvd - Gateway Park Station Track 1": {
+      "stop_id": "34473",
+      "lines": [
+        "A"
+      ]
+    },
+    "Denver Airport Station": {
+      "stop_id": "34475",
+      "lines": [
+        "A"
+      ]
+    },
+    "Pecos Junction Station Track 1": {
+      "stop_id": "34544",
+      "lines": [
+        "B",
+        "G"
+      ]
+    },
+    "Westminster Station N-Bound": {
+      "stop_id": "34561",
+      "lines": [
+        "B"
+      ]
+    },
+    "38th & Blake Station Track 2": {
+      "stop_id": "34466",
+      "lines": [
+        "A"
+      ]
+    },
+    "Pecos Junction Station Track 2": {
+      "stop_id": "34543",
+      "lines": [
+        "B",
+        "G"
+      ]
+    },
+    "Clear Creek - Federal Station Track 2": {
+      "stop_id": "34529",
+      "lines": [
+        "G"
+      ]
+    },
+    "41st & Fox Station Track 1": {
+      "stop_id": "34558",
+      "lines": [
+        "B",
+        "G"
+      ]
+    }
+  },
+  "routes": {
+    "117N": {
+      "line": "N",
+      "name": "Union Station to Eastlake & 124th Station",
+      "color": "9F26B5",
+      "type": "rail"
+    },
+    "107R": {
+      "line": "R",
+      "name": "Lincoln Station to Peoria Station",
+      "color": "C4D600",
+      "type": "rail"
+    },
+    "109L": {
+      "line": "L",
+      "name": "30th & Downing to 16th & Stout",
+      "color": "FFCE00",
+      "type": "rail"
+    },
+    "101H": {
+      "line": "H",
+      "name": "18th & California to Florida",
+      "color": "0075BE",
+      "type": "rail"
+    },
+    "101D": {
+      "line": "D",
+      "name": "18th & California to Littleton-Mineral Station",
+      "color": "008348",
+      "type": "rail"
+    },
+    "101E": {
+      "line": "E",
+      "name": "Union Station to RidgeGate Parkway Station",
+      "color": "552683",
+      "type": "rail"
+    },
+    "103W": {
+      "line": "W",
+      "name": "Union Station to Jefferson County Government Center-Golden Station",
+      "color": "009DAA",
+      "type": "rail"
+    },
+    "113B": {
+      "line": "B",
+      "name": "Union Station to Westminster Station",
+      "color": "4E9D2D",
+      "type": "rail"
+    },
+    "113G": {
+      "line": "G",
+      "name": "Union Station to Wheat Ridge Ward Station",
+      "color": "F6B221",
+      "type": "rail"
+    },
+    "A": {
+      "line": "A",
+      "name": "Union Station to Denver Airport Station",
+      "color": "57C1E9",
+      "type": "rail"
+    }
+  },
+  "connections": {
+    "35257": {
+      "35254": 3.25
+    },
+    "35254": {
+      "35252": 3.5
+    },
+    "35252": {
+      "35250": 3.5
+    },
+    "35250": {
+      "35248": 3.75
+    },
+    "35248": {
+      "35246": 7.0
+    },
+    "35246": {
+      "34668": 8.0
+    },
+    "34668": {
+      "35247": 8.0
+    },
+    "35247": {
+      "35249": 6.5
+    },
+    "35249": {
+      "35251": 4.0
+    },
+    "35251": {
+      "35253": 3.75
+    },
+    "35253": {
+      "35255": 3.5
+    },
+    "35255": {
+      "35257": 5.0
+    },
+    "34578": {
+      "34575": 2.5
+    },
+    "34575": {
+      "34003": 3.0
+    },
+    "34003": {
+      "34004": 3.25
+    },
+    "34004": {
+      "34011": 4.5,
+      "25991": 3.5
+    },
+    "34011": {
+      "34012": 2.75
+    },
+    "34012": {
+      "34013": 2.5
+    },
+    "34013": {
+      "34014": 3.0
+    },
+    "34014": {
+      "34015": 2.0
+    },
+    "34015": {
+      "23041": 3.25
+    },
+    "23041": {
+      "23042": 1.75
+    },
+    "23042": {
+      "23043": 3.5
+    },
+    "23043": {
+      "23044": 6.0,
+      "25427": 3.5
+    },
+    "23044": {
+      "29104": 2.0
+    },
+    "29104": {
+      "23046": 2.0
+    },
+    "23046": {
+      "23047": 1.0
+    },
+    "35212": {
+      "35209": 1.75
+    },
+    "35209": {
+      "35205": 2.0
+    },
+    "35205": {
+      "34005": 2.5
+    },
+    "34005": {
+      "34006": 2.25
+    },
+    "34006": {
+      "34007": 2.25
+    },
+    "34007": {
+      "34008": 2.75
+    },
+    "34008": {
+      "34009": 2.0
+    },
+    "34009": {
+      "34010": 2.25
+    },
+    "34010": {
+      "34011": 3.0,
+      "25974": 4.25
+    },
+    "25427": {
+      "25428": 1.0
+    },
+    "25428": {
+      "25429": 2.0
+    },
+    "25429": {
+      "25430": 2.0
+    },
+    "24896": {
+      "24894": 3.5
+    },
+    "24894": {
+      "24892": 3.5
+    },
+    "24892": {
+      "24890": 2.25
+    },
+    "24890": {
+      "24882": 3.75
+    },
+    "24882": {
+      "23041": 4.0
+    },
+    "25434": {
+      "25433": 2.0
+    },
+    "25433": {
+      "25432": 2.25
+    },
+    "25432": {
+      "25431": 1.75
+    },
+    "25431": {
+      "23059": 3.25,
+      "33558": 4.0
+    },
+    "23059": {
+      "23060": 3.5
+    },
+    "23060": {
+      "23061": 2.0,
+      "35383": 2.0
+    },
+    "23061": {
+      "25982": 3.0
+    },
+    "25982": {
+      "25981": 2.0
+    },
+    "25981": {
+      "25980": 3.5
+    },
+    "25980": {
+      "25979": 2.25
+    },
+    "25979": {
+      "25978": 3.0
+    },
+    "25978": {
+      "25991": 3.5,
+      "25974": 4.5
+    },
+    "25991": {
+      "25983": 2.25
+    },
+    "25983": {
+      "25990": 2.25
+    },
+    "25990": {
+      "25989": 3.0
+    },
+    "25989": {
+      "25988": 2.5
+    },
+    "25988": {
+      "25973": 2.0
+    },
+    "25973": {
+      "35204": 3.0
+    },
+    "35204": {
+      "35207": 2.0
+    },
+    "35207": {
+      "35211": 2.0
+    },
+    "23055": {
+      "23056": 1.5,
+      "35266": 2.75
+    },
+    "23056": {
+      "25884": 2.5
+    },
+    "25884": {
+      "23058": 4.0
+    },
+    "23058": {
+      "23059": 3.5
+    },
+    "25974": {
+      "25987": 3.25
+    },
+    "25987": {
+      "34574": 3.0
+    },
+    "34574": {
+      "34577": 2.5
+    },
+    "33948": {
+      "33966": 5.0
+    },
+    "33966": {
+      "33955": 4.0
+    },
+    "33955": {
+      "33960": 4.0
+    },
+    "33960": {
+      "33957": 3.0
+    },
+    "33957": {
+      "33970": 2.5
+    },
+    "33970": {
+      "33959": 2.25
+    },
+    "33959": {
+      "33967": 2.25
+    },
+    "33967": {
+      "33965": 2.5
+    },
+    "33965": {
+      "33941": 1.75
+    },
+    "33941": {
+      "33958": 2.0
+    },
+    "33958": {
+      "25427": 3.0
+    },
+    "33558": {
+      "33559": 1.75
+    },
+    "33559": {
+      "33560": 1.5
+    },
+    "33560": {
+      "33561": 2.0
+    },
+    "33561": {
+      "33562": 2.5
+    },
+    "33562": {
+      "33563": 2.25
+    },
+    "33563": {
+      "33564": 2.5
+    },
+    "33564": {
+      "33565": 3.0
+    },
+    "33565": {
+      "33566": 4.0
+    },
+    "33566": {
+      "33567": 4.0
+    },
+    "33567": {
+      "33568": 5.5
+    },
+    "34577": {
+      "34579": 6.5
+    },
+    "34579": {
+      "34581": 4.25
+    },
+    "34581": {
+      "34583": 3.0
+    },
+    "34583": {
+      "34585": 3.0
+    },
+    "34585": {
+      "34587": 3.25
+    },
+    "34587": {
+      "34745": 4.5
+    },
+    "34744": {
+      "34588": 5.25
+    },
+    "34588": {
+      "34586": 3.5
+    },
+    "34586": {
+      "34584": 2.75
+    },
+    "34584": {
+      "34582": 3.25
+    },
+    "34582": {
+      "34580": 6.5
+    },
+    "34580": {
+      "34578": 6.0
+    },
+    "23047": {
+      "23048": 3.0
+    },
+    "23048": {
+      "23049": 3.0
+    },
+    "23049": {
+      "23708": 1.0
+    },
+    "23708": {
+      "23051": 2.0
+    },
+    "23051": {
+      "23709": 2.0
+    },
+    "23709": {
+      "23053": 1.5
+    },
+    "23053": {
+      "23054": 5.0
+    },
+    "23054": {
+      "23055": 2.0
+    },
+    "35383": {
+      "25435": 3.0
+    },
+    "25435": {
+      "25436": 3.0,
+      "25982": 8.0
+    },
+    "25436": {
+      "25437": 2.0
+    },
+    "25437": {
+      "25438": 3.5
+    },
+    "25438": {
+      "25439": 3.5
+    },
+    "34560": {
+      "34543": 2.0
+    },
+    "34543": {
+      "34559": 4.0
+    },
+    "34559": {
+      "34782": 9.0,
+      "34781": 7.0
+    },
+    "34510": {
+      "34519": 3.0
+    },
+    "34519": {
+      "34541": 3.0
+    },
+    "34541": {
+      "34525": 4.0
+    },
+    "34525": {
+      "34529": 2.0
+    },
+    "34529": {
+      "34543": 4.0
+    },
+    "34782": {
+      "34558": 4.0
+    },
+    "34558": {
+      "34544": 4.0
+    },
+    "34544": {
+      "34561": 7.0,
+      "34530": 3.0
+    },
+    "34781": {
+      "34558": 4.0
+    },
+    "34530": {
+      "34526": 3.0
+    },
+    "34526": {
+      "34542": 4.0
+    },
+    "34542": {
+      "34520": 3.0
+    },
+    "34520": {
+      "34510": 6.0
+    },
+    "34476": {
+      "34606": 9.0
+    },
+    "34606": {
+      "34474": 4.0
+    },
+    "34474": {
+      "34472": 6.0
+    },
+    "34472": {
+      "34470": 3.0
+    },
+    "34470": {
+      "34468": 4.0
+    },
+    "34468": {
+      "34466": 5.0
+    },
+    "34466": {
+      "34667": 6.0
+    },
+    "34667": {
+      "34465": 4.0
+    },
+    "34465": {
+      "34467": 5.0
+    },
+    "34467": {
+      "34469": 4.0
+    },
+    "34469": {
+      "34471": 3.0
+    },
+    "34471": {
+      "34473": 6.0
+    },
+    "34473": {
+      "34605": 3.0
+    },
+    "34605": {
+      "34475": 12.0
+    }
+  },
+  "service_patterns": {
+    "P_Fri": {
+      "days": [
+        "friday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    },
+    "WK": {
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    },
+    "MT": {
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    },
+    "SA": {
+      "days": [
+        "saturday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    },
+    "SU": {
+      "days": [
+        "sunday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    },
+    "DPSWK": {
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    },
+    "FR": {
+      "days": [
+        "friday"
+      ],
+      "start_date": "20250119",
+      "end_date": "20250524"
+    }
+  },
+  "transfers": {}
+}
